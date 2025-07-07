@@ -1,0 +1,5 @@
+print("Enter your name")
+r=input()
+print('Hello',r,"Where are you from?")
+w=input()
+print('So',r,'you are from',w)
