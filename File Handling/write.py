@@ -1,0 +1,6 @@
+f=open('mytext.txt ', 'w')
+f.write('Rajeev ')
+f.write('CSE ')
+f.write('IIT Madras ')
+f.write('python')
+f.close()

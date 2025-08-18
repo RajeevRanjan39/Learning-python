@@ -33,5 +33,5 @@ def sort_obvious(l):
     return x
 
 
-l = [ 90,24,15,35,97,15,20,5,1]
+l = [ 90,24,15,35,97,18,20,5,1]
 print(sort_obvious1(l))

@@ -1,0 +1,5 @@
+f=open('newtext.txt', 'w')
+f.write("This is the first line\n",)
+f.write("\n")
+f.write("This is the second line")
+f.close()
