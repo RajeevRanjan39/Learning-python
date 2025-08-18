@@ -6,10 +6,12 @@ digit = 0
 # while(num>0):
 #     num = num // 10
 #     digit = digit + 1
+# print(digit)
 
 while(num>0):
     num = int(num / 10)
     digit = digit + 1
+print(digit)
 
 # digit = 1
 # while(num>9):
